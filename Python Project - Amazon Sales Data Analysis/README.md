@@ -13,6 +13,7 @@
     Imported data using Pandas and performed initial cleanup.
     Converted rating data to numeric and removed rows with missing values.
 
+
 ## Descriptive Statistics:
 
 #### Distribution of Ratings and Discounts:
@@ -20,6 +21,7 @@
 
 #### Correlation Analysis:
         Created a scatter plot to examine the relationship between product ratings and the number of reviews, using a logarithmic scale for better clarity.
+
         
 ## Category Analysis:
 
