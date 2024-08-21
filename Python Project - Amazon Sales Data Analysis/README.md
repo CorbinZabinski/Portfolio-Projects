@@ -16,7 +16,7 @@ Fetching and Cleaning Data:
 
 Descriptive Statistics:
 
-    Distribution of Ratings and Discounts:
+Distribution of Ratings and Discounts:
         Plotted histograms to visualize the distribution of product ratings and discount percentages.
 
 Correlation Analysis:
