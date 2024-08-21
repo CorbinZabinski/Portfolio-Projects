@@ -15,6 +15,7 @@ Fetching and Cleaning Data:
     Converted rating data to numeric and removed rows with missing values.
 
 Descriptive Statistics:
+
     Distribution of Ratings and Discounts:
         Plotted histograms to visualize the distribution of product ratings and discount percentages.
 
