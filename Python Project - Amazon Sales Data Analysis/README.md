@@ -1,4 +1,4 @@
-# title Amazon Sales Data Analysis
+# Amazon Sales Data Analysis
 Exploratory Data Analysis (EDA):
 
 Descriptive Statistics:
