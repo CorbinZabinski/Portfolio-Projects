@@ -2,8 +2,8 @@
 ## Exploratory Data Analysis (EDA):
 
 ### Descriptive Statistics:
-    Analyzed and visualized the distribution of product ratings and discount percentages.
-    Identified the correlation between product ratings and the number of reviews.
+Analyzed and visualized the distribution of product ratings and discount percentages.
+Identified the correlation between product ratings and the number of reviews.
 
 ### Category Analysis:
     Determined the top product categories and their average ratings.
