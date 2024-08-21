@@ -1,5 +1,6 @@
 # Amazon Sales Data Analysis - Exploratory Data Analysis (EDA):
 
+## Overview
 #### Descriptive Statistics:
     Analyzed and visualized the distribution of product ratings and discount percentages.
     Identified the correlation between product ratings and the number of reviews.
