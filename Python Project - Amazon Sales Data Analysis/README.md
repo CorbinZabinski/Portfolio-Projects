@@ -18,7 +18,7 @@ Descriptive Statistics:
     Distribution of Ratings and Discounts:
         Plotted histograms to visualize the distribution of product ratings and discount percentages.
 
-    Correlation Analysis:
+Correlation Analysis:
         Created a scatter plot to examine the relationship between product ratings and the number of reviews, using a logarithmic scale for better clarity.
         Category Analysis:
 
