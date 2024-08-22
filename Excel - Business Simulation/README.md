@@ -2,7 +2,7 @@
 
 ## Overview
 This project simulates the financial performance of a hypothetical pumpkin patch business, comparing two different revenue models. The goal is to determine which model yields higher profitability by analyzing various business factors such as production, pricing, labor costs, and customer behavior. 
-(I have included a powerpoint that explains the project in futher details)
+**(I have included a powerpoint that explains the project in futher details)**
 
 ## Revenue Models
 - **Model 1: Price Per Pound:** Customers are charged based on the weight of the pumpkins they select.
