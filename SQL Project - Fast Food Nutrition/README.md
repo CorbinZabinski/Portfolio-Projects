@@ -47,10 +47,3 @@ This analysis provides a detailed look at fast food nutritional content, offerin
 ## How to Use
 - Clone the repository and run the SQL scripts in your preferred SQL environment.
 - The dataset used is included in the repository for easy reference.
-
-## Future Work
-- Extend the analysis to include more nutritional factors.
-- Visualize the results using a BI tool like Tableau or Power BI.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
