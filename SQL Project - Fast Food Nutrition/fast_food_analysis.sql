@@ -95,7 +95,7 @@ ORDER BY company, ff1.calories ASC;
 -- Displaying average rank for each item and overall ranking (lower is healthier)
 
 SELECT *, DENSE_RANK() OVER (ORDER BY average_rank) AS Ranking
-	FROM(
+FROM(
 	SELECT Company, Item, Calories, Rnk_sat_fat, Rnk_tran_fat, Rnk_chol, Rnk_sodium, Rnk_sugar, Rnk_fiber, Rnk_protein, 
 		(rnk_sat_fat*0.8 + rnk_tran_fat*3 + rnk_sodium*0.2 + rnk_sugar*0.8 + rnk_fiber*1.5 + rnk_protein*0.5) / 6 AS Average_Rank
 	FROM (
